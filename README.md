@@ -1,4 +1,4 @@
-# ECS170-AI
+# Zergling-Rush
 
 ## Folder Description:
 
