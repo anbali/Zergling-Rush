@@ -4,23 +4,11 @@
 
 `agents`: contain runnable sc2 agents
 
-`dqn`: DQN practice under OPENAI
-
-`explore`: exploration files on `pysc2` package
-
 `images`: network structure graph and gameplay screenshots
 
-`others`: utilies
+`others`: utilies and practices
 
-`q-learning`: q learning relative exploration files
-
-`replay`: replay in bin format
-
-`resources`: some researches and ideas
-
-`save_model`: tensorflow event files
-
-`tensorflow practice`: practice files on tensorflow, dqn and dueling dqn
+`resources`: guidence and resource
 
 ## Running the agent:
 Under folder `agents/`
